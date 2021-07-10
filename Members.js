@@ -7,7 +7,7 @@ const members = [
   },
   {
     id: 2,
-    name: "Satou",
+    name: "Sato",
     email: "test2@gmail.com",
     status: "inactive"
   },
@@ -15,6 +15,12 @@ const members = [
     id: 3,
     name: "Tanaka",
     email: "test3@gmail.com",
+    status: "active"
+  },
+  {
+    id: 4,
+    name: "Kobayashi",
+    email: "test4@gmail.com",
     status: "active"
   }
 ];
